@@ -40,3 +40,22 @@ and declines observed. That is, 1972 records the highest number of total fatalit
 records the lowest fatality (1).
 The analysis also revealed 16% crew fatalities and 84% passenger fatalities, providing a deeper understanding
 of the distribution of fatalities within the aircraft.
+
+![image](https://github.com/matth-adenyo/airplane-crash-analysis/assets/69389739/1fd7f214-1565-4164-89d6-08fa424f420a)
+
+
+### Geospatial Analysis:
+Through the visualization of crash locations on a world map, hotspots of incidents were identified.
+This will enable stakeholders to focus their attention on regions with higher incident rates.
+
+![image](https://github.com/matth-adenyo/airplane-crash-analysis/assets/69389739/6f5c7586-0312-49f2-8e24-847888001c2f)
+
+
+### Trend Analysis:
+Flight routes analysis revealed insights into routes with a higher likelihood of incidents.
+This will help stakeholders make informed decisions regarding route planning.
+
+In addition, operators and aircraft types with the highest record of fatalities were identified.
+
+![image](https://github.com/matth-adenyo/airplane-crash-analysis/assets/69389739/74ddb871-9bdb-43fa-aced-bf78f9fb8206)
+
